@@ -1,0 +1,16 @@
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\SGI.Infra.dll.config
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\SGI.Infra.dll
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\SGI.Infra.pdb
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\Castle.Core.dll
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\Castle.Windsor.dll
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\EntityFramework.dll
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\SGI.Dominio.dll
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\SGI.Dominio.pdb
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\Castle.Core.xml
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\Castle.Windsor.xml
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\EntityFramework.xml
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\obj\Debug\SGI.Infra.csprojResolveAssemblyReference.cache
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\obj\Debug\SGI.Infra.dll
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Infra\obj\Debug\SGI.Infra.pdb

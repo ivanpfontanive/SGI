@@ -1,0 +1,4 @@
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Dominio\bin\Debug\SGI.Dominio.dll
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Dominio\bin\Debug\SGI.Dominio.pdb
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Dominio\obj\Debug\SGI.Dominio.dll
+C:\Projetos\Treinamento\Branch\1.0.0.0\SGI\SGI.Dominio\obj\Debug\SGI.Dominio.pdb
